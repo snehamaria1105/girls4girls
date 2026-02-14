@@ -55,7 +55,8 @@ function showLogin() {
   app.innerHTML = `
     <div class="header">Girls4Girls</div>
     <div class="page">
-      <h3>Choose Avatar</h3>
+    <h1>Login</h1>
+      <h3>Choose Avatar</h3><br>
 
       <button onclick="selectAvatar('🌸')">🌸</button>
       <button onclick="selectAvatar('🍀')">🍀</button>
